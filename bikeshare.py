@@ -1,4 +1,4 @@
-#this project made from anto75-2021
+#this project made by anto75-2021
 
 import time
 import statistics
