@@ -4,7 +4,7 @@
 Project created on 27-Dec-2021
 
 ### Project Bikeshare
-Project Bikeshare
+Project Bikeshare from Udacity Course
 
 ### Description
 The code is written in python and it imports the data from .csv files that contains thte Start Time, End Time
