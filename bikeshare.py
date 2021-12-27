@@ -1,5 +1,5 @@
 #this project made by Antonio 2021
-
+#added for refactoring branch
 import time
 import statistics
 import pandas as pd
@@ -85,6 +85,8 @@ def load_data(city, month, day):
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
+
+    In next versions could be provided more data set to analyze
     """
     print('\nLoading data...\n')
     start_time = time.time()
