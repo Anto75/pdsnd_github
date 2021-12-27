@@ -8,7 +8,7 @@ import datetime as dt
 from datetime import timedelta
 from statistics import mode, StatisticsError
 
-# dictionary of the cities files
+# dictionary of the cities files provided by Udacity
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
