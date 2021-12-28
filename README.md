@@ -1,5 +1,4 @@
-### 27-Dec-2021
-Project created on 27-Dec-2021
+### Project created on 27-Dec-2021
 
 ### Project Bikeshare
 Project Bikeshare from Udacity Course
